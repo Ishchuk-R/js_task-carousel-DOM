@@ -87,9 +87,6 @@ body {
     margin: auto;
     position: absolute;
     cursor: pointer; }
-    .carousel__btn.disable {
-      opacity: 0.5;
-      cursor: no-drop; }
     .carousel__btn_prev {
       left: 0; }
     .carousel__btn_next {
